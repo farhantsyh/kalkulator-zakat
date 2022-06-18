@@ -21,6 +21,7 @@ public class AboutView extends javax.swing.JFrame {
         setExtendedState(JFrame.MAXIMIZED_HORIZ);
         setVisible(true);
         setResizable(false);
+        // hahaha aku ngefork
     }
 
     /**
